@@ -1319,7 +1319,7 @@ div.pp_default .pp_social {
   border-radius: 4px;
   background-color: #FA8072;
   border: none;
-  color: white;
+  color: #FFFFFF;
   text-align: center;
   font-size: 28px;
   padding: 20px;
@@ -1353,8 +1353,6 @@ div.pp_default .pp_social {
   opacity: 1;
   right: 0;
 }
-
-
 .conForm {
 	text-align: center;
 }
