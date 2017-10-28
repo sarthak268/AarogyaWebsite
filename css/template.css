@@ -35,7 +35,7 @@ hr {
 a {
 	text-decoration: none;
 	outline: none;
-	color: #2ec06c;
+	color: white;
 	-webkit-transition: all .3s ease-in-out;
 	   -moz-transition: all .3s ease-in-out;
 		 -o-transition: all .3s ease-in-out;
@@ -1315,6 +1315,7 @@ div.pp_default .pp_social {
 	}
 }
 
+
 .button {
   border-radius: 4px;
   background-color: #FA8072;
@@ -1442,3 +1443,4 @@ padding:15px 30px 15px 30px;
         }
     }
 }
+
